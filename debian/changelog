@@ -1,0 +1,8 @@
+ros-indigo-summit-x-control (1.0.1-0trusty) trusty; urgency=high
+
+  * creating summit_x_sim metapackage
+  * Contributors: Jorge Arino
+
+ -- Robotnik <info@robotnik.es>  Thu, 07 Jul 2016 22:00:00 -0000
+
+
