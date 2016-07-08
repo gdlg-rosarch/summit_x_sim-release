@@ -1,0 +1,10 @@
+ros-indigo-summit-x-gazebo (1.0.1-0trusty) trusty; urgency=high
+
+  * Modified dependencies
+  * Modified CmakeLists and Package.xml files
+  * creating summit_x_sim metapackage
+  * Contributors: Jorge Arino, carlos3dx
+
+ -- Carlos Villar <cvillar@robotnik.es>  Thu, 07 Jul 2016 22:00:00 -0000
+
+
