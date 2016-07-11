@@ -1,0 +1,27 @@
+ros-indigo-summit-x-robot-control (1.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Sun, 10 Jul 2016 22:00:00 -0000
+
+ros-indigo-summit-x-robot-control (1.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Sun, 10 Jul 2016 22:00:00 -0000
+
+ros-indigo-summit-x-robot-control (1.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Sun, 10 Jul 2016 22:00:00 -0000
+
+ros-indigo-summit-x-robot-control (1.0.1-0trusty) trusty; urgency=high
+
+  * Modified CmakeLists and Package.xml files
+  * creating summit_x_sim metapackage
+  * Contributors: Jorge Arino, carlos3dx
+
+ -- Carlos Villar <cvillar@robotnik.es>  Thu, 07 Jul 2016 22:00:00 -0000
+
+
