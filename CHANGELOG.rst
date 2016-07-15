@@ -2,6 +2,11 @@
 Changelog for package summit_x_robot_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.5 (2016-07-15)
+------------------
+* updated changelog
+* Contributors: carlos3dx
+
 1.0.4 (2016-07-11)
 ------------------
 
