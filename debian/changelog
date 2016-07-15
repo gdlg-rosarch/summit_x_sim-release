@@ -1,0 +1,36 @@
+ros-indigo-summit-x-control (1.0.5-0trusty) trusty; urgency=high
+
+  * updated changelog
+  * Contributors: carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Thu, 14 Jul 2016 22:00:00 -0000
+
+ros-indigo-summit-x-control (1.0.4-0trusty) trusty; urgency=high
+
+  * modified dependencies
+  * Contributors: carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Sun, 10 Jul 2016 22:00:00 -0000
+
+ros-indigo-summit-x-control (1.0.3-0trusty) trusty; urgency=high
+
+  * modified CMakelists and package.xml
+  * Contributors: carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Sun, 10 Jul 2016 22:00:00 -0000
+
+ros-indigo-summit-x-control (1.0.2-0trusty) trusty; urgency=high
+
+  * changed package.xml in summit_x_control
+  * Contributors: carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Sun, 10 Jul 2016 22:00:00 -0000
+
+ros-indigo-summit-x-control (1.0.1-0trusty) trusty; urgency=high
+
+  * creating summit_x_sim metapackage
+  * Contributors: Jorge Arino
+
+ -- Robotnik <info@robotnik.es>  Thu, 07 Jul 2016 22:00:00 -0000
+
+
