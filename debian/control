@@ -1,0 +1,13 @@
+Source: ros-indigo-summit-x-robot-control
+Section: misc
+Priority: extra
+Maintainer: Carlos Villar <cvillar@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-diagnostic-msgs, ros-indigo-diagnostic-updater, ros-indigo-geometry-msgs, ros-indigo-nav-msgs, ros-indigo-robotnik-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-tf
+Homepage: http://wiki.ros.org/summit_x_robot_control
+Standards-Version: 3.9.2
+
+Package: ros-indigo-summit-x-robot-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-diagnostic-msgs, ros-indigo-diagnostic-updater, ros-indigo-geometry-msgs, ros-indigo-nav-msgs, ros-indigo-robotnik-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-tf
+Description: Control the robot joints in all kinematic configurations, publishes odom topic and, if configured, also tf odom to base_link.
+ Usually takes as input joystick commands and generates as outputs references for the gazebo controllers defined in summit_xl_control.
