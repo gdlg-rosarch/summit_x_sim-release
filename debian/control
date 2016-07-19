@@ -1,0 +1,12 @@
+Source: ros-kinetic-summit-x-gazebo
+Section: misc
+Priority: extra
+Maintainer: Carlos Villar <cvillar@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-gazebo-ros, ros-kinetic-roscpp, ros-kinetic-std-msgs, ros-kinetic-std-srvs, ros-kinetic-summit-x-control, ros-kinetic-summit-x-description, ros-kinetic-summit-x-robot-control, ros-kinetic-tf, ros-kinetic-xacro
+Homepage: http://wiki.ros.org/summit_x_gazebo
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-summit-x-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-gazebo-ros, ros-kinetic-roscpp, ros-kinetic-std-msgs, ros-kinetic-std-srvs, ros-kinetic-summit-x-control, ros-kinetic-summit-x-description, ros-kinetic-summit-x-robot-control, ros-kinetic-tf, ros-kinetic-xacro
+Description: Launch files and world files to start the models in gazebo
