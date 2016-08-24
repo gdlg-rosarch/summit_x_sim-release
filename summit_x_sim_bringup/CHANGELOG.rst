@@ -2,18 +2,21 @@
 Changelog for package summit_x_sim_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.0.7 (2016-08-24)
+1.1.0 (2016-08-24)
 ------------------
+* modified version number
+* Contributors: carlos3dx
+
+* modified version number
+* Contributors: carlos3dx
+
+1.0.7 (2016-08-24 07:35:31 +0200)
+---------------------------------
+* updated changelog
 * modified version number
 * updated changelog
 * Creating package summit_x_sim_bringup
 * Contributors: Jorge Arino, carlos3dx
-
-* Creating package summit_x_sim_bringup
-* Contributors: Jorge Arino
-
-* Creating package summit_x_sim_bringup
-* Contributors: Jorge Arino
 
 1.0.6 (2016-07-19 07:33:36 +0200)
 ---------------------------------
