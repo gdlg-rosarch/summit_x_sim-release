@@ -1,3 +1,31 @@
+## summit_x_sim (indigo) - 1.0.8-0
+
+The packages in the `summit_x_sim` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo summit_x_sim` on `Fri, 26 Aug 2016 06:14:34 -0000`
+
+These packages were released:
+- `summit_x_control`
+- `summit_x_gazebo`
+- `summit_x_robot_control`
+- `summit_x_sim`
+- `summit_x_sim_bringup`
+
+Version of package(s) in repository `summit_x_sim`:
+
+- upstream repository: https://github.com/RobotnikAutomation/summit_x_sim.git
+- release repository: https://github.com/RobotnikAutomation/summit_x_sim-release.git
+- rosdistro version: `1.0.7-0`
+- old version: `1.0.7-0`
+- new version: `1.0.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## summit_x_sim (kinetic) - 1.1.1-0
 
 The packages in the `summit_x_sim` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic summit_x_sim` on `Fri, 26 Aug 2016 06:06:45 -0000`
