@@ -1,0 +1,12 @@
+Source: ros-indigo-summit-x-sim
+Section: misc
+Priority: extra
+Maintainer: Carlos Villar <cvillar@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/summit_x_sim
+Standards-Version: 3.9.2
+
+Package: ros-indigo-summit-x-sim
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-summit-x-control, ros-indigo-summit-x-gazebo, ros-indigo-summit-x-robot-control
+Description: The summit_x_sim metapackage
