@@ -2,17 +2,11 @@
 Changelog for package summit_x_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.0.8 (2016-08-26)
+1.1.1 (2016-08-26)
 ------------------
-* 1.0.7
-* updated changelog
-* updated changelog
-* Contributors: carlos3dx
 
-1.0.7 (2016-08-24)
+1.1.0 (2016-08-24)
 ------------------
-* updated changelog
-* Contributors: carlos3dx
 
 1.0.6 (2016-07-19)
 ------------------
